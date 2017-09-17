@@ -1,2 +1,2 @@
-# artificialintelligence
-I am uploading all the artificial intelligence assignments here.
+# 8 puzzle A star implementation in Java
+
